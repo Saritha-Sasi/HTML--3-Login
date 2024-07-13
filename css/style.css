@@ -154,6 +154,9 @@ img.logo-b {
     .loginBox {
         padding: 0px 40px;
     }
+    .left-section {
+        padding: 0 30px;
+    }
 }
 
 @media (max-width: 575px) {
